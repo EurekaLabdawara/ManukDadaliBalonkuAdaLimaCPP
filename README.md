@@ -1,4 +1,4 @@
-# ManukDadaliBalonkuAdaLimaCPP
+# ManukDadaliLaskarPelangiCPP
 
 This is the first project / assignment that makes me interest and love c++ language. For the first time i can make (remake/rebuild) a song from a code.
 
